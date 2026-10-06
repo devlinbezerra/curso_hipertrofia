@@ -1,0 +1,93 @@
+<svg role="img" aria-label="Diagrama do item 3.3: Que mensagem o corpo está mandando?" viewBox="0 0 800 640" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect width="800" height="640" fill="#ffffff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f2937">Que mensagem o corpo está mandando?</text>
+  <text x="400" y="60" text-anchor="middle" font-size="14" fill="#6b7280">Guia de leitura com tendências, não um diagnóstico</text>
+
+  <!-- card 1: fadiga -->
+  <rect x="40" y="80" width="230" height="250" rx="10" fill="#eff6ff"/>
+  <rect x="40" y="80" width="230" height="34" rx="10" fill="#1d4ed8"/>
+  <text x="155" y="103" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">Fadiga muscular</text>
+  <text x="56" y="136" font-size="11" font-weight="bold" fill="#1e40af">ONDE</text>
+  <text x="56" y="152" font-size="12" fill="#1e3a8a">no meio do músculo,</text>
+  <text x="56" y="167" font-size="12" fill="#1e3a8a">área ampla e difusa</text>
+  <text x="56" y="188" font-size="11" font-weight="bold" fill="#1e40af">SENSAÇÃO</text>
+  <text x="56" y="204" font-size="12" fill="#1e3a8a">peso, ardência, cansaço</text>
+  <text x="56" y="219" font-size="12" fill="#1e3a8a">(burn e pump, item 1.2)</text>
+  <text x="56" y="240" font-size="11" font-weight="bold" fill="#1e40af">QUANDO</text>
+  <text x="56" y="256" font-size="12" fill="#1e3a8a">durante a série, perto da falha;</text>
+  <text x="56" y="271" font-size="12" fill="#1e3a8a">passa em segundos ou minutos</text>
+  <text x="56" y="292" font-size="11" font-weight="bold" fill="#1e40af">RESPOSTA</text>
+  <text x="56" y="308" font-size="12" fill="#1e3a8a">cresce com o esforço</text>
+  <text x="56" y="323" font-size="12" fill="#1e3a8a">e some ao descansar</text>
+
+  <!-- card 2: dor tardia -->
+  <rect x="285" y="80" width="230" height="250" rx="10" fill="#f0fdf4"/>
+  <rect x="285" y="80" width="230" height="34" rx="10" fill="#15803d"/>
+  <text x="400" y="103" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">Dor muscular tardia</text>
+  <text x="301" y="136" font-size="11" font-weight="bold" fill="#166534">ONDE</text>
+  <text x="301" y="152" font-size="12" fill="#14532d">no músculo trabalhado,</text>
+  <text x="301" y="167" font-size="12" fill="#14532d">normalmente dos dois lados</text>
+  <text x="301" y="188" font-size="11" font-weight="bold" fill="#166534">SENSAÇÃO</text>
+  <text x="301" y="204" font-size="12" fill="#14532d">rigidez, dói ao tocar</text>
+  <text x="301" y="219" font-size="12" fill="#14532d">ou ao alongar</text>
+  <text x="301" y="240" font-size="11" font-weight="bold" fill="#166534">QUANDO</text>
+  <text x="301" y="256" font-size="12" fill="#14532d">1 a 3 dias depois,</text>
+  <text x="301" y="271" font-size="12" fill="#14532d">pico por volta de 48 h</text>
+  <text x="301" y="292" font-size="11" font-weight="bold" fill="#166534">RESPOSTA</text>
+  <text x="301" y="308" font-size="12" fill="#14532d">melhora ao se mover e</text>
+  <text x="301" y="323" font-size="12" fill="#14532d">diminui se o treino se repete</text>
+
+  <!-- card 3: articular -->
+  <rect x="530" y="80" width="230" height="250" rx="10" fill="#fff7ed"/>
+  <rect x="530" y="80" width="230" height="34" rx="10" fill="#c2410c"/>
+  <text x="645" y="103" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">Dor articular / tendão</text>
+  <text x="546" y="136" font-size="11" font-weight="bold" fill="#9a3412">ONDE</text>
+  <text x="546" y="152" font-size="12" fill="#7c2d12">ponto específico: articulação</text>
+  <text x="546" y="167" font-size="12" fill="#7c2d12">ou perto da inserção do tendão</text>
+  <text x="546" y="188" font-size="11" font-weight="bold" fill="#9a3412">SENSAÇÃO</text>
+  <text x="546" y="204" font-size="12" fill="#7c2d12">pontada, beliscão, fisgada,</text>
+  <text x="546" y="219" font-size="12" fill="#7c2d12">ou dor surda que insiste</text>
+  <text x="546" y="240" font-size="11" font-weight="bold" fill="#9a3412">QUANDO</text>
+  <text x="546" y="256" font-size="12" fill="#7c2d12">no mesmo ponto do movimento,</text>
+  <text x="546" y="271" font-size="12" fill="#7c2d12">mesmo com carga leve</text>
+  <text x="546" y="292" font-size="11" font-weight="bold" fill="#9a3412">RESPOSTA</text>
+  <text x="546" y="308" font-size="12" fill="#7c2d12">pode melhorar no aquecimento</text>
+  <text x="546" y="323" font-size="12" fill="#7c2d12">e voltar mais forte depois</text>
+
+  <!-- semáforo -->
+  <text x="400" y="358" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">O semáforo: o que fazer</text>
+
+  <rect x="40" y="372" width="230" height="130" rx="8" fill="#dcfce7"/>
+  <circle cx="62" cy="394" r="9" fill="#16a34a"/>
+  <text x="80" y="399" font-size="14" font-weight="bold" fill="#166534">Verde: siga o treino</text>
+  <text x="155" y="426" text-anchor="middle" font-size="12" fill="#14532d">desconforto muscular difuso,</text>
+  <text x="155" y="444" text-anchor="middle" font-size="12" fill="#14532d">que cresce com o esforço</text>
+  <text x="155" y="462" text-anchor="middle" font-size="12" fill="#14532d">e some ao descansar, ou</text>
+  <text x="155" y="480" text-anchor="middle" font-size="12" fill="#14532d">dor tardia dos dois lados</text>
+
+  <rect x="285" y="372" width="230" height="130" rx="8" fill="#fef9c3"/>
+  <circle cx="307" cy="394" r="9" fill="#eab308"/>
+  <text x="325" y="399" font-size="14" font-weight="bold" fill="#713f12">Amarelo: ajuste e observe</text>
+  <text x="400" y="426" text-anchor="middle" font-size="12" fill="#713f12">incômodo leve (até 3 em 10)</text>
+  <text x="400" y="444" text-anchor="middle" font-size="12" fill="#713f12">localizado na articulação ou</text>
+  <text x="400" y="462" text-anchor="middle" font-size="12" fill="#713f12">no tendão, sem piorar no dia</text>
+  <text x="400" y="480" text-anchor="middle" font-size="12" fill="#713f12">seguinte: reduza, ajuste, anote</text>
+
+  <rect x="530" y="372" width="230" height="130" rx="8" fill="#fee2e2"/>
+  <circle cx="552" cy="394" r="9" fill="#dc2626"/>
+  <text x="570" y="399" font-size="14" font-weight="bold" fill="#991b1b">Vermelho: pare o exercício</text>
+  <text x="645" y="426" text-anchor="middle" font-size="12" fill="#7f1d1d">dor aguda que piora na série,</text>
+  <text x="645" y="444" text-anchor="middle" font-size="12" fill="#7f1d1d">muda a sua técnica, estalo</text>
+  <text x="645" y="462" text-anchor="middle" font-size="12" fill="#7f1d1d">com dor, perda súbita de força,</text>
+  <text x="645" y="480" text-anchor="middle" font-size="12" fill="#7f1d1d">dormência ou dor que dura dias</text>
+
+  <!-- três perguntas -->
+  <rect x="40" y="516" width="720" height="52" rx="8" fill="#f3f4f6"/>
+  <text x="400" y="538" text-anchor="middle" font-size="13" font-weight="bold" fill="#111827">Três perguntas antes de concluir</text>
+  <text x="400" y="558" text-anchor="middle" font-size="12" fill="#374151">Dá para apontar com um dedo?  ·  Aparece no mesmo ponto, mesmo com carga leve?  ·  Passou em 24 a 48 h?</text>
+
+  <!-- rodapé -->
+  <rect x="40" y="580" width="720" height="48" rx="8" fill="#fef9c3"/>
+  <text x="400" y="600" text-anchor="middle" font-size="13" fill="#713f12">Dor não é placar de treino (item 1.2) e também não é preço a pagar: é informação.</text>
+  <text x="400" y="617" text-anchor="middle" font-size="13" fill="#713f12">Incômodo que persiste ou cai no vermelho: sinais de alerta e avaliação profissional (item 3.4).</text>
+</svg>

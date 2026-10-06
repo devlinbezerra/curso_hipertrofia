@@ -1,0 +1,99 @@
+<svg role="img" aria-label="Diagrama do item 2.3: Onde a tensão foge nos compostos" viewBox="0 0 800 640" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect width="800" height="640" fill="#ffffff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f2937">Onde a tensão foge nos compostos</text>
+  <text x="400" y="60" text-anchor="middle" font-size="14" fill="#6b7280">Três padrões de erro: impulso, articulação cedendo, amplitude encurtada</text>
+
+  <!-- legenda -->
+  <rect x="60" y="78" width="14" height="14" rx="3" fill="#f59e0b"/>
+  <text x="80" y="90" font-size="12" fill="#374151">Impulso emprestado</text>
+  <rect x="260" y="78" width="14" height="14" rx="3" fill="#dc2626"/>
+  <text x="280" y="90" font-size="12" fill="#374151">Articulação cedendo</text>
+  <rect x="470" y="78" width="14" height="14" rx="3" fill="#2563eb"/>
+  <text x="490" y="90" font-size="12" fill="#374151">Amplitude encurtada</text>
+
+  <!-- Agachamento -->
+  <rect x="30" y="110" width="240" height="440" rx="10" fill="#f3f4f6"/>
+  <text x="150" y="140" text-anchor="middle" font-size="17" font-weight="bold" fill="#111827">Agachamento</text>
+
+  <rect x="45" y="160" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="45" y="160" width="6" height="70" fill="#f59e0b"/>
+  <text x="62" y="184" font-size="13" font-weight="bold" fill="#111827">Rebater no fundo</text>
+  <text x="62" y="204" font-size="12" fill="#4b5563">Pula a zona alongada</text>
+
+  <rect x="45" y="240" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="45" y="240" width="6" height="70" fill="#dc2626"/>
+  <text x="62" y="264" font-size="13" font-weight="bold" fill="#111827">Joelhos desabando</text>
+  <text x="62" y="284" font-size="12" fill="#4b5563">Quadril não estabiliza a carga</text>
+
+  <rect x="45" y="320" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="45" y="320" width="6" height="70" fill="#dc2626"/>
+  <text x="62" y="344" font-size="13" font-weight="bold" fill="#111827">Quadril sobe antes do peito</text>
+  <text x="62" y="364" font-size="12" fill="#4b5563">Lombar assume a carga</text>
+
+  <rect x="45" y="400" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="45" y="400" width="6" height="70" fill="#2563eb"/>
+  <text x="62" y="424" font-size="13" font-weight="bold" fill="#111827">Descer pouco</text>
+  <text x="62" y="444" font-size="12" fill="#4b5563">Peso sobe, estímulo cai</text>
+
+  <text x="150" y="500" text-anchor="middle" font-size="12" fill="#6b7280">Também: calcanhar saindo do chão,</text>
+  <text x="150" y="518" text-anchor="middle" font-size="12" fill="#6b7280">coluna sem controle no fundo</text>
+
+  <!-- Supino -->
+  <rect x="280" y="110" width="240" height="440" rx="10" fill="#f3f4f6"/>
+  <text x="400" y="140" text-anchor="middle" font-size="17" font-weight="bold" fill="#111827">Supino</text>
+
+  <rect x="295" y="160" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="295" y="160" width="6" height="70" fill="#f59e0b"/>
+  <text x="312" y="184" font-size="13" font-weight="bold" fill="#111827">Quicar a barra no peito</text>
+  <text x="312" y="204" font-size="12" fill="#4b5563">Rebote faz a subida</text>
+
+  <rect x="295" y="240" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="295" y="240" width="6" height="70" fill="#dc2626"/>
+  <text x="312" y="264" font-size="13" font-weight="bold" fill="#111827">Cotovelos abertos a 90°</text>
+  <text x="312" y="284" font-size="12" fill="#4b5563">Ombro sofre, peito rende menos</text>
+
+  <rect x="295" y="320" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="295" y="320" width="6" height="70" fill="#dc2626"/>
+  <text x="312" y="344" font-size="13" font-weight="bold" fill="#111827">Ombros soltos, sem base</text>
+  <text x="312" y="364" font-size="12" fill="#4b5563">Articulação segura a carga</text>
+
+  <rect x="295" y="400" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="295" y="400" width="6" height="70" fill="#f59e0b"/>
+  <text x="312" y="424" font-size="13" font-weight="bold" fill="#111827">Quadril saindo do banco</text>
+  <text x="312" y="444" font-size="12" fill="#4b5563">Ajuda a levantar, carga na lombar</text>
+
+  <text x="400" y="500" text-anchor="middle" font-size="12" fill="#6b7280">Também: pulso dobrado para trás,</text>
+  <text x="400" y="518" text-anchor="middle" font-size="12" fill="#6b7280">descer sem controle</text>
+
+  <!-- Remada -->
+  <rect x="530" y="110" width="240" height="440" rx="10" fill="#f3f4f6"/>
+  <text x="650" y="140" text-anchor="middle" font-size="17" font-weight="bold" fill="#111827">Remada</text>
+
+  <rect x="545" y="160" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="545" y="160" width="6" height="70" fill="#f59e0b"/>
+  <text x="562" y="184" font-size="13" font-weight="bold" fill="#111827">Balançar o tronco</text>
+  <text x="562" y="204" font-size="12" fill="#4b5563">Impulso faz o trabalho</text>
+
+  <rect x="545" y="240" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="545" y="240" width="6" height="70" fill="#f59e0b"/>
+  <text x="562" y="264" font-size="13" font-weight="bold" fill="#111827">Puxar só com as mãos</text>
+  <text x="562" y="284" font-size="12" fill="#4b5563">Bíceps antes das costas</text>
+
+  <rect x="545" y="320" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="545" y="320" width="6" height="70" fill="#dc2626"/>
+  <text x="562" y="344" font-size="13" font-weight="bold" fill="#111827">Coluna perdendo posição</text>
+  <text x="562" y="364" font-size="12" fill="#4b5563">Lombar cede sob carga</text>
+
+  <rect x="545" y="400" width="210" height="70" rx="6" fill="#ffffff"/>
+  <rect x="545" y="400" width="6" height="70" fill="#2563eb"/>
+  <text x="562" y="424" font-size="13" font-weight="bold" fill="#111827">Puxada curta, sem estender</text>
+  <text x="562" y="444" font-size="12" fill="#4b5563">Perde a zona alongada</text>
+
+  <text x="650" y="500" text-anchor="middle" font-size="12" fill="#6b7280">Também: encolher os ombros</text>
+  <text x="650" y="518" text-anchor="middle" font-size="12" fill="#6b7280">em direção às orelhas</text>
+
+  <!-- rodapé -->
+  <rect x="30" y="565" width="740" height="56" rx="8" fill="#fef9c3"/>
+  <text x="400" y="588" text-anchor="middle" font-size="13" fill="#713f12">A raiz quase sempre é carga acima do que a execução sustenta.</text>
+  <text x="400" y="608" text-anchor="middle" font-size="13" fill="#713f12">Técnica quebrou? Reduza a carga. Grave um vídeo de lado e compare a 1ª com a última repetição.</text>
+</svg>

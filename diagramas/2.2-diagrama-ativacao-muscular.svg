@@ -1,0 +1,62 @@
+<svg role="img" aria-label="Diagrama do item 2.2: Quem está levando o peso?" viewBox="0 0 800 580" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect width="800" height="580" fill="#ffffff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f2937">Quem está levando o peso?</text>
+  <text x="400" y="60" text-anchor="middle" font-size="14" fill="#6b7280">Exemplo: uma remada com a mesma carga, divisão do trabalho diferente</text>
+
+  <!-- coluna esquerda: sem direcionar -->
+  <rect x="40" y="85" width="350" height="260" rx="10" fill="#fef2f2"/>
+  <text x="215" y="112" text-anchor="middle" font-size="15" font-weight="bold" fill="#991b1b">Atenção só em "levantar o peso"</text>
+
+  <text x="60" y="150" font-size="13" fill="#374151">Costas (alvo)</text>
+  <rect x="160" y="136" width="90" height="20" rx="4" fill="#2563eb"/>
+  <text x="258" y="151" font-size="12" fill="#374151">pouco</text>
+
+  <text x="60" y="190" font-size="13" fill="#374151">Braços</text>
+  <rect x="160" y="176" width="190" height="20" rx="4" fill="#9ca3af"/>
+  <text x="358" y="191" font-size="12" fill="#374151"></text>
+
+  <text x="60" y="230" font-size="13" fill="#374151">Ombro/balanço</text>
+  <rect x="160" y="216" width="130" height="20" rx="4" fill="#9ca3af"/>
+
+  <text x="215" y="285" text-anchor="middle" font-size="13" fill="#7f1d1d">A série foi dura, mas a ordem de serviço</text>
+  <text x="215" y="303" text-anchor="middle" font-size="13" fill="#7f1d1d">chegou ao endereço errado.</text>
+  <text x="215" y="328" text-anchor="middle" font-size="12" fill="#6b7280">"Sinto mais no braço do que nas costas"</text>
+
+  <!-- coluna direita: direcionando -->
+  <rect x="410" y="85" width="350" height="260" rx="10" fill="#f0fdf4"/>
+  <text x="585" y="112" text-anchor="middle" font-size="15" font-weight="bold" fill="#166534">Atenção no músculo-alvo</text>
+
+  <text x="430" y="150" font-size="13" fill="#374151">Costas (alvo)</text>
+  <rect x="530" y="136" width="190" height="20" rx="4" fill="#16a34a"/>
+
+  <text x="430" y="190" font-size="13" fill="#374151">Braços</text>
+  <rect x="530" y="176" width="110" height="20" rx="4" fill="#9ca3af"/>
+
+  <text x="430" y="230" font-size="13" fill="#374151">Ombro/balanço</text>
+  <rect x="530" y="216" width="60" height="20" rx="4" fill="#9ca3af"/>
+
+  <text x="585" y="285" text-anchor="middle" font-size="13" fill="#166534">Mais da encomenda vai para o músculo</text>
+  <text x="585" y="303" text-anchor="middle" font-size="13" fill="#166534">que você quer treinar.</text>
+  <text x="585" y="328" text-anchor="middle" font-size="12" fill="#6b7280">Cotovelo para trás, não a mão</text>
+
+  <!-- barra de carga -->
+  <text x="400" y="385" text-anchor="middle" font-size="16" font-weight="bold" fill="#1f2937">Onde o foco no músculo ajuda?</text>
+  <defs>
+    <linearGradient id="grad-2-2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#16a34a"/>
+      <stop offset="55%" stop-color="#84cc16"/>
+      <stop offset="100%" stop-color="#9ca3af"/>
+    </linearGradient>
+  </defs>
+  <rect x="60" y="405" width="680" height="28" rx="14" fill="url(#grad-2-2)"/>
+  <text x="60" y="455" font-size="12" fill="#374151">Carga leve</text>
+  <text x="400" y="455" text-anchor="middle" font-size="12" fill="#374151">Carga moderada</text>
+  <text x="740" y="455" text-anchor="end" font-size="12" fill="#374151">Carga muito alta (perto do máximo)</text>
+  <text x="230" y="480" text-anchor="middle" font-size="13" font-weight="bold" fill="#166534">Foco no músculo ajuda</text>
+  <text x="620" y="480" text-anchor="middle" font-size="13" font-weight="bold" fill="#4b5563">Foco no movimento e na técnica</text>
+
+  <!-- rodapé -->
+  <rect x="60" y="505" width="680" height="52" rx="8" fill="#fef9c3"/>
+  <text x="400" y="527" text-anchor="middle" font-size="13" fill="#713f12">Ativar mais não é o mesmo que crescer mais: a série ainda precisa chegar perto do limite.</text>
+  <text x="400" y="545" text-anchor="middle" font-size="13" fill="#713f12">"Queimar" não prova que o músculo certo trabalhou (item 1.2).</text>
+</svg>

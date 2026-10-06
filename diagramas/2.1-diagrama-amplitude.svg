@@ -1,0 +1,43 @@
+<svg role="img" aria-label="Diagrama do item 2.1: A régua do movimento: qual pedaço você usa?" viewBox="0 0 800 560" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect width="800" height="560" fill="#ffffff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f2937">A régua do movimento: qual pedaço você usa?</text>
+  <text x="400" y="60" text-anchor="middle" font-size="14" fill="#6b7280">Mesma régua, três formas de percorrê-la</text>
+
+  <!-- zonas -->
+  <rect x="60" y="85" width="227" height="360" fill="#dbeafe"/>
+  <rect x="287" y="85" width="226" height="360" fill="#f3f4f6"/>
+  <rect x="513" y="85" width="227" height="360" fill="#fee2e2"/>
+  <text x="173" y="108" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e40af">ALONGADO</text>
+  <text x="173" y="126" text-anchor="middle" font-size="12" fill="#1e40af">músculo esticado, molinhas</text>
+  <text x="173" y="141" text-anchor="middle" font-size="12" fill="#1e40af">internas tensionadas</text>
+  <text x="400" y="108" text-anchor="middle" font-size="14" font-weight="bold" fill="#4b5563">INTERMEDIÁRIO</text>
+  <text x="627" y="108" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">ENCURTADO</text>
+  <text x="627" y="126" text-anchor="middle" font-size="12" fill="#991b1b">músculo contraído, molinhas</text>
+  <text x="627" y="141" text-anchor="middle" font-size="12" fill="#991b1b">frouxas</text>
+
+  <!-- linha 1: completa -->
+  <text x="60" y="172" font-size="14" font-weight="bold" fill="#111827">1. Amplitude completa e controlada</text>
+  <rect x="60" y="180" width="680" height="26" rx="13" fill="#16a34a"/>
+  <text x="400" y="228" text-anchor="middle" font-size="13" fill="#166534">Passa pela zona de mais tensão. É o padrão.</text>
+
+  <!-- linha 2: parcial alongada -->
+  <text x="60" y="282" font-size="14" font-weight="bold" fill="#111827">2. Parcial na zona alongada</text>
+  <rect x="60" y="290" width="360" height="26" rx="13" fill="#2563eb"/>
+  <text x="240" y="338" text-anchor="middle" font-size="13" fill="#1e3a8a">Boa tensão por fibra. Serve como finalizador no fim da série.</text>
+
+  <!-- linha 3: parcial encurtada -->
+  <text x="60" y="392" font-size="14" font-weight="bold" fill="#111827">3. Parcial na zona encurtada</text>
+  <rect x="440" y="400" width="300" height="26" rx="13" fill="#dc2626"/>
+  <text x="590" y="440" text-anchor="middle" font-size="13" fill="#7f1d1d">Muito peso, pouca tensão na fibra: armadilha do ego.</text>
+
+  <!-- eixo -->
+  <line x1="60" y1="462" x2="740" y2="462" stroke="#9ca3af" stroke-width="2"/>
+  <polygon points="740,462 730,457 730,467" fill="#9ca3af"/>
+  <text x="60" y="482" font-size="12" fill="#6b7280">Início do trajeto (músculo esticado)</text>
+  <text x="740" y="482" text-anchor="end" font-size="12" fill="#6b7280">Fim do trajeto (músculo contraído)</text>
+
+  <!-- rodapé -->
+  <rect x="60" y="500" width="680" height="44" rx="8" fill="#fef9c3"/>
+  <text x="400" y="520" text-anchor="middle" font-size="13" fill="#713f12">A pergunta certa: que pedaço da régua gera mais tensão útil na fibra?</text>
+  <text x="400" y="537" text-anchor="middle" font-size="13" fill="#713f12">Subir carga encurtando o trajeto não é progressão (item 1.4).</text>
+</svg>
